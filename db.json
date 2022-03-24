@@ -1,12 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "events": [
+    {
+      "id": 1,
+      "name": "Park Cleanup Volunteering",
+      "time": "2:00 - 4:00pm",
+      "address": "485 Clawson St, Staten Island, NY 10306",
+      "date": "Saturday, April 2nd"
+    }
   ],
   "profile": {
     "name": "typicode"
