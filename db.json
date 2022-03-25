@@ -25,7 +25,19 @@
                 "eventTime": "8:00 - 9:00"
             }
         ],
-  "profile": {
-    "name": "typicode"
-  }
+    "users": [
+            {
+                "userName": "John Doe",
+                "userEmail": "johndoe17@gmail.com"
+            },
+            {
+                "userName": "Jane Doe",
+                "userEmail": "janedoe45@yahoo.com"
+            },
+            {
+                "userName": "John Wick",
+                "userEmail": "johnwick1337@gmail.com"
+            }
+
+        ]
 }
